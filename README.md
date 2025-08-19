@@ -8,7 +8,6 @@
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I'm proficient in:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -39,9 +38,6 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-These stats give a glimpse into my coding activity and contributions on GitHub.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -77,3 +73,7 @@ I'm always open to connecting with fellow developers and collaborators. Feel fre
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
+
+
+
+

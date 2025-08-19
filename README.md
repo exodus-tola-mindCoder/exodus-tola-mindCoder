@@ -1,4 +1,4 @@
-# Hi there, I'm Exodus Tola 👋
+# Hi there, I'm Exodus_Tola 👋
 
 ### A passionate developer dedicated to solving real-world problems with code.
 

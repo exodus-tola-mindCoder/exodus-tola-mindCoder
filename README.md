@@ -12,15 +12,11 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a dedicated developer passionate about creating innovative solutions to real-world problems.
-
 - 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities  
 - 🌱 **Currently learning:** Generative AI  
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools  
-- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and automation  
-- ⚡ **Fun fact:** I believe clean code is a form of documentation  
+- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and 
+- ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t write a line
 
 ---
 

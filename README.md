@@ -78,7 +78,7 @@ I'm a dedicated developer passionate about creating innovative solutions to real
 
 ---
 
-## 📊 GitHub Stats & Grade
+
 
 <div align="center">
   <table>

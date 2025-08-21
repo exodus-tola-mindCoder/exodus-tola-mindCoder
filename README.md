@@ -13,7 +13,7 @@
 - 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities  
 - 🌱 **Currently learning:** Generative AI  
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools  
-- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and 
+- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools.
 - ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!
 
 ---

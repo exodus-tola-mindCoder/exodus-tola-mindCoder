@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hello, I'm Exodus_Tola
+# 👋 Hey, I'm Exodus_Tola
 
 ### Passionate Developer & Problem Solver | Building Solutions Through Code
 
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-I'm a dedicated developer passionate about creating innovative solutions to real-world problems. I enjoy working on challenging projects that push my boundaries and allow me to grow both personally and professionally.
+I'm a dedicated developer passionate about creating innovative solutions to real-world problems.
 
 - 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities  
-- 🌱 **Currently learning:** Advanced TypeScript patterns and cloud architecture  
+- 🌱 **Currently learning:** Generative AI  
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools  
 - 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and automation  
 - ⚡ **Fun fact:** I believe clean code is a form of documentation  

@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hello, I'm Exodus Tola
+# 👋 Hello, I'm Exodus_Tola
 
 ### Passionate Developer & Problem Solver | Building Solutions Through Code
 
@@ -16,11 +16,11 @@
 
 I'm a dedicated developer passionate about creating innovative solutions to real-world problems. I enjoy working on challenging projects that push my boundaries and allow me to grow both personally and professionally.
 
-- 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities
-- 🌱 **Currently learning:** Advanced TypeScript patterns and cloud architecture
-- 👯 **Looking to collaborate on:** Open-source projects and developer tools
-- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and automation
-- ⚡ **Fun fact:** I believe clean code is a form of documentation
+- 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities  
+- 🌱 **Currently learning:** Advanced TypeScript patterns and cloud architecture  
+- 👯 **Looking to collaborate on:** Open-source projects and developer tools  
+- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and automation  
+- ⚡ **Fun fact:** I believe clean code is a form of documentation  
 
 ---
 
@@ -78,52 +78,33 @@ I'm a dedicated developer passionate about creating innovative solutions to real
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Grade
 
 <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=exodus-tola-mindCoder&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true&count_private=true&custom_title=Exodus_Tola's%20GitHub%20Stats" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exodus-tola-mindCoder&layout=compact&theme=dracula" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/exodus-tola-mindCoder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exodus-tola-mindCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exodus-tola-mindCoder&layout=compact&theme=radical&hide=html,css" />
-</a>
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=exodus-tola-mindCoder&theme=radical&fire=DD2727)](https://git.io/streak-stats)
-
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=exodus-tola-mindCoder&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=exodus-tola-mindCoder&theme=dracula&fire=FF4500" alt="GitHub Streak" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exodus-tola-mindCoder&theme=dracula" alt="Profile Details" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 Trophies
 
-### 🚀 Gissy - Intelligent CLI Assistant
-[![Gissy](https://github-readme-stats.vercel.app/api/pin/?username=exodus-tola-mindCoder&repo=gissy&theme=radical&show_owner=true)](https://github.com/exodus-tola-mindCoder/gissy)
-
-An intelligent CLI assistant designed to supercharge your Git workflow. It automates repetitive tasks using multiple AI providers to generate meaningful commit messages, watch files, and run quality checks.
-
-**Tech Stack:** TypeScript, Node.js, Commander.js, OpenAI API
-
----
-
-## 📢 Latest from My Telegram Channel
-
-<!-- TELEGRAM:START -->
-<!-- TELEGRAM:END -->
-
-*Telegram updates will appear here when configured*
-
----
-
-## 🏆 Achievements
-
-- **Created Gissy** - An innovative CLI tool enhancing developer workflows
-- **Open Source Contributor** - Active participation in the developer community
-- **Continuous Learner** - Always expanding my skill set and knowledge
-- **Full-Stack Developer** - Proficient in both frontend and backend technologies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=exodus-tola-mindCoder&theme=dracula&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -131,7 +112,7 @@ An intelligent CLI assistant designed to supercharge your Git workflow. It autom
 
 ### ⚡️ Daily Development Motivation
 
-> "First, solve the problem. Then, write the code." - John Johnson
+"So whether you eat or drink, or whatever you do, do it all for the glory of God." 1 Corinthians 10:31  
 
 </div>
 

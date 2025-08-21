@@ -16,7 +16,7 @@
 - 🌱 **Currently learning:** Generative AI  
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools  
 - 💬 **Ask me about:** JavaScript/TypeScript, CLI tools, and 
-- ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t write a line
+- ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!
 
 ---
 
@@ -32,7 +32,7 @@
   <a href="https://t.me/Exodus_Tola" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:exodustolaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/exodus-tola-mindCoder" target="_blank">
@@ -79,7 +79,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=exodus-tola-mindCoder&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true&count_private=true&custom_title=Exodus_Tola's%20GitHub%20Stats" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=exodus-tola-mindCoder&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true2025&count_private=true&custom_title=Exodus_Tola's%20GitHub%20Stats" alt="GitHub Stats" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exodus-tola-mindCoder&layout=compact&theme=dracula" alt="Top Languages" /></td>
     </tr>
   </table>

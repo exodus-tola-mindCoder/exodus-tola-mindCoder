@@ -3,10 +3,8 @@
   
 # 👋 Hey, I'm Exodus_Tola
 
-### Passionate Developer & Problem Solver | Building Solutions Through Code
+### A passionate developer dedicated to solving real-world problems with code 
 
-![Profile Views](https://komarev.com/ghpvc/?username=exodus-tola-mindCoder&color=blueviolet&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/exodus-tola-mindCoder?label=Follow&style=social)](https://github.com/exodus-tola-mindCoder)
 
 </div>
 

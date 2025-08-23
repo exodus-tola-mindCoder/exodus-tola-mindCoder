@@ -97,7 +97,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exodus-tola-mindCoder&theme=dracula&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=exodus-tola-mindCoder&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---

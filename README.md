@@ -3,7 +3,7 @@
   
 # 👋 Hey, I'm Exodus_Tola
 
-### A passionate developer dedicated to solving real-world problems with code 
+### A meticulous full stuck developer dedicated to solving real-world problems with code 
 
 
 </div>

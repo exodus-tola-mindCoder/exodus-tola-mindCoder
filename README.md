@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hey, I'm Exodus_Tola
+# 👋 Hey, I'm Exodus
 
 ### A meticulous full stuck developer dedicated to solving real-world problems with code 
 

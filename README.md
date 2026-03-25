@@ -88,7 +88,7 @@
     <tr>
       <!-- <td>
         <!-- Fixed GitHub Streak -->
-        <img src="https://streak-stats.demolab.com?user=exodus-tola-mindCoder&theme=dracula&fire=FF4500" alt="GitHub Streak" />
+        <!-- <img src="https://streak-stats.demolab.com?user=exodus-tola-mindCoder&theme=dracula&fire=FF4500" alt="GitHub Streak" /> -->
       <!-- </td> -->
       <td>
         <!-- Your Profile Details (unchanged) -->

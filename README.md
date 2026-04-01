@@ -3,7 +3,7 @@
   
 # 👋 Hey, I'm Exodus
 
-### A meticulous full stuck developer dedicated to solving real-world problems with code 
+### A meticulous full stuck web and app developer dedicated to solving real-world problems with code 
 
 
 </div>

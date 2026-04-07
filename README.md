@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hey, I'm Exodus
+# 👋 Hey there, I'm Exodus AkA Exodus_Tola
 
 ### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code 
 

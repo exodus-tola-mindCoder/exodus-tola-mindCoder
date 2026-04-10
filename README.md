@@ -1,9 +1,9 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hey there, I'm Exodus_Tola
+# 👋 Hey there, I'm Exodus_Tola.
 
-### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code 
+### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code.
 
 
 </div>
@@ -12,13 +12,13 @@
 
 - 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities  
 - 🌱 **Currently learning:** Generative AI  
-- 👯 **Looking to collaborate on:** Open-source projects and developer tools  
+- 👯 **Looking to collaborate on:** Open-source projects and developer tools.
 - 💬 **Ask me about:** JavaScript/TypeScript, CLI tools.
-- ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!
+- ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!.
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect!.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/exodus-tola" target="_blank">

@@ -107,9 +107,9 @@
 
 <div align="center">
 
-### ⚡️ Daily Development Motivation
+### ⚡️ Daily Development Motivation!.
 
-"So whether you eat or drink, or whatever you do, do it all for the glory of God." 1 Corinthians 10:31  
+"So whether you eat or drink, or whatever you do, do it all for the glory of God." 1 Corinthians 10:31!. 
 
 </div>
 

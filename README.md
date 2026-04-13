@@ -17,7 +17,7 @@
 
 ---
 
-## 📬 Let's Connect!.
+## 📬 Let's Connect.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/exodus-tola" target="_blank">

@@ -86,7 +86,7 @@
   <table>
     <tr>
       <td>
-        Fixed GitHub Streak
+        Exo GitHub Streak
         <img src="https://streak-stats.demolab.com?user=exodus-tola-mindCoder&theme=dracula&fire=FF4500" alt="GitHub Streak" />
       </td>
       <td>

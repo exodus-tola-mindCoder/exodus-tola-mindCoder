@@ -3,7 +3,7 @@
   
 # 👋 Hey there, I'm Exodus
 
-### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code.
+### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code
 
 
 </div>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack.
+## 🛠️ Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -98,7 +98,7 @@
 </div>
 
 
-## 🏆 Trophies.
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=exodus-tola-mindCoder" alt="GitHub Trophies" />

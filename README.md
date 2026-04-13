@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities
+- 🔭 **Currently working on:** Enhancing [Gissy](https://github.com/exodus-tola-mindCoder/gissy) with more AI capabilities.
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools.
 - 💬 **Ask me about:** JavaScript/TypeScript, CLI tools.
 - ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!.
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,7 +63,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Technologies
+### Tools & Technologies.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -98,7 +98,7 @@
 </div>
 
 
-## 🏆 Trophies
+## 🏆 Trophies.
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=exodus-tola-mindCoder" alt="GitHub Trophies" />

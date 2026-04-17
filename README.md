@@ -1,9 +1,9 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hey there, I'm Exodus
+# 👋 Hey there, I'm Exodus_Tola
 
-### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code
+### A full stuck web and mobile application developer dedicated to solving real-world problems with code
 
 
 </div>

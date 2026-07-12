@@ -3,7 +3,9 @@
   
 # 👋 Hey there, I'm Exodus
 
-### A meticulous full stuck web and mobile application developer dedicated to solving real-world problems with code
+### Full-Stack Software Engineer & Technical Product Manager
+
+I don’t code for fun, if it doesn’t solve a problem, I don’t touch it
 
 
 </div>

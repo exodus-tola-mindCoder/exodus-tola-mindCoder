@@ -14,7 +14,7 @@ I don’t code for fun, if it doesn’t solve a problem, I don’t touch it
 
 - 🔭 **Currently working as:** a Techinivsl product/project Manager and building user centric SaaS products.
 - 👯 **Looking to collaborate on:** Open-source projects and developer tools.
-- 💬 **Ask me about:** JavaScript/TypeScript, CLI tools.
+- 💬 **Ask me about:** product management or Project management 
 - ⚡ **Fun fact:** I don’t code for fun, if it doesn’t solve a problem, I don’t touch it. This is basically the Saved Message of My Life!.
 
 ---

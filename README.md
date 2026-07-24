@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-# 👋 Hey there, I'm Exodus
+# 👋 Hey there, I'm Exodus Gemechu 
 
 ### Full-Stack Software Engineer & Technical Product Manager
 

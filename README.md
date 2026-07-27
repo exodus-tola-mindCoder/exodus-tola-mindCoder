@@ -3,9 +3,9 @@
   
 # 👋 Hello, I'm Exodus
 
-### Full-Stack Software Engineer & Technical Product Manager from 🇪🇹
+### Full-Stack Software Engineer & Technical Product Manage
 
-I don’t code for fun, if it doesn’t solve a problem, I don’t touch it
+I don’t code for fun. if it doesn’t solve a problem, I don’t touch it
 
 
 </div>
